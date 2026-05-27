@@ -1,0 +1,6 @@
+{
+  "name": "Yes Group BVI",
+  "description": "Yes Group BVI 官方網站 - 全球資產數位化與交易流動性基礎設施，採用奢華黑金視覺設計與全繁體中文介面。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
